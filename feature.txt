@@ -1,1 +1,1 @@
-Зміни у рядку у feature-branch
+Зміни у рядку у fix-bug
